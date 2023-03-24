@@ -45,7 +45,7 @@ const Hero = () => {
                 mb: 4,
               }}
             >
-              Welcome to Billions Agency
+              Welcome to Besnik Agency
             </Typography>
             <Title variant="h1">
               Discover a place where you'll love to live.
